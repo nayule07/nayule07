@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo! Eu sou Letícia Yukimi 👋
 
 - 🔭 Atualmente trabalho como designer
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas e Engenharia Civil
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas // Engenharia Civil
 
  <div>
   <a href="https://github.com/nayule07">
