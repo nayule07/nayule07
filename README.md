@@ -11,6 +11,7 @@
   <img align="center" alt="Leticia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leticia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Leticia-pic" height="150" style="border-radius:50px;" src="<a href="https://github.com/nayule07"><img src="https://i.picasion.com/pic91/2f9d913a4eab7ff2615e2f7e5f750f9e.gif">
 </div>
   
   ##
